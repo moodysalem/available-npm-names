@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "npm-name": "^3.0.0",
+    "underscore": "^1.8.3"
+  }
+}

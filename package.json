@@ -2,5 +2,24 @@
   "dependencies": {
     "npm-name": "^3.0.0",
     "underscore": "^1.8.3"
-  }
+  },
+  "name": "available-npm-names",
+  "description": "node script to find all the 3 letter combinations that are available as npm names",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moodysalem/available-npm-names.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moodysalem/available-npm-names/issues"
+  },
+  "homepage": "https://github.com/moodysalem/available-npm-names#readme"
 }

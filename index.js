@@ -5,10 +5,10 @@ const npmName = require('npm-name');
 const letters = _.chain(_.range(65, 65 + 26)).map(i => String.fromCharCode(i)).value();
 
 const combinations = (letters, length, str = '') => {
-  if (length == 0) {
+  if (length === 0) {
     return [ str ];
   }
-  if (length == 1) {
+  if (length === 1) {
     return _.map(letters, l => `${str}${l}`);
   }
 
@@ -28,7 +28,7 @@ let available = [],
   queued = 0;
 
 const test100 = () => {
-  if (combs.length == 0) {
+  if (combs.length === 0) {
     return;
   }
 
@@ -54,11 +54,10 @@ const test100 = () => {
         );
         queued -= 1;
 
-        console.log(`found ${available.length} [${split[0]},${split[split.length-1]}], queued: ${queued}`);
+        console.log(`found ${available.length} [${split[ 0 ]},${split[ split.length - 1 ]}], queued: ${queued}`);
 
-        // no remaining combinations and none queued
-        if (combs.length == 0 && queued.length == 0) {
-          console.log(available.join(';'));
+        if (queued === 0 && combs.length === 0) {
+          console.log(available.join('\n'));
         }
       }
     );

@@ -1,25 +1,3 @@
-testing another 100... 915 remaining
-testing another 100... 815 remaining
-testing another 100... 715 remaining
-testing another 100... 615 remaining
-found 21 [fox,hum], queued: 3
-testing another 100... 515 remaining
-found 37 [dog,fou], queued: 3
-testing another 100... 415 remaining
-found 52 [bio,doe], queued: 3
-testing another 100... 315 remaining
-found 72 [aah,bin], queued: 3
-testing another 100... 215 remaining
-found 87 [hun,lex], queued: 3
-testing another 100... 115 remaining
-found 98 [ley,not], queued: 3
-testing another 100... 15 remaining
-found 110 [now,pot], queued: 3
-testing another 100... 0 remaining
-found 113 [zap,zzz], queued: 3
-found 124 [pow,sic], queued: 2
-found 136 [sim,upo], queued: 1
-found 157 [ups,zag], queued: 0
 foy
 fub
 fud

@@ -1,0 +1,179 @@
+testing another 100... 915 remaining
+testing another 100... 815 remaining
+testing another 100... 715 remaining
+testing another 100... 615 remaining
+found 21 [fox,hum], queued: 3
+testing another 100... 515 remaining
+found 37 [dog,fou], queued: 3
+testing another 100... 415 remaining
+found 52 [bio,doe], queued: 3
+testing another 100... 315 remaining
+found 72 [aah,bin], queued: 3
+testing another 100... 215 remaining
+found 87 [hun,lex], queued: 3
+testing another 100... 115 remaining
+found 98 [ley,not], queued: 3
+testing another 100... 15 remaining
+found 110 [now,pot], queued: 3
+testing another 100... 0 remaining
+found 113 [zap,zzz], queued: 3
+found 124 [pow,sic], queued: 2
+found 136 [sim,upo], queued: 1
+found 157 [ups,zag], queued: 0
+foy
+fub
+fud
+gam
+gar
+gey
+gie
+gor
+gos
+gox
+hae
+hag
+haj
+heh
+hep
+hes
+hic
+hie
+hin
+hob
+hoy
+dol
+dud
+dug
+eau
+ecu
+edh
+eds
+eld
+els
+ern
+ers
+feh
+feu
+fob
+foh
+fon
+biz
+bod
+brr
+bys
+cay
+cig
+cru
+cud
+cum
+cur
+cwm
+dah
+dak
+dap
+dey
+aba
+ado
+adz
+aga
+ahs
+ail
+ait
+amu
+ane
+apo
+arb
+avo
+awl
+awn
+ays
+azo
+baa
+bah
+bal
+bey
+ich
+jeu
+jew
+jow
+kae
+kaf
+kas
+kef
+kep
+khi
+kye
+lad
+lav
+lek
+leu
+ley
+lez
+lis
+lum
+lye
+maw
+mho
+mil
+myc
+naw
+neg
+nus
+obe
+ohs
+oot
+ors
+oud
+pah
+pec
+pes
+pis
+poh
+pol
+zas
+zek
+zuz
+pud
+pye
+qat
+qis
+raj
+roe
+sab
+sau
+seg
+sei
+sib
+sot
+suk
+tae
+taj
+tas
+taw
+tew
+tho
+twa
+ulu
+uns
+upo
+urb
+urd
+urp
+vau
+vav
+vaw
+vet
+voe
+vug
+wae
+woe
+wos
+wry
+wud
+wyn
+xis
+yid
+yip
+yob
+yok
+yon
